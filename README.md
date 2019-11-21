@@ -4,9 +4,9 @@
 
 该代码为vue dev-tools主分支代码的部分代码  
 
-vue devtools的github目录为：https://github.com/vuejs/vue-devtools/tree/master    
+vue devtools的github地址为：https://github.com/vuejs/vue-devtools/tree/master    
 
-从主分支克隆下来的代码，在我本地目录以及经过npm install和npm build，并且修改了manifest.json文件里面需要修改的内容，所以直接将最终可用的文件上传至此。   
+从主分支克隆下来的代码，在我本地目录以及经过npm install和npm build，并且修改了manifest.json文件里面需要修改的内容，所以将最终可直接添加到浏览器的代码文件保存至此。   
 
 ### 使用方法
 
