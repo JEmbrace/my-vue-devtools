@@ -4,7 +4,7 @@
 
 vue devtools的github目录为：https://github.com/vuejs/vue-devtools/tree/master    
 
-该代码已经经过npm install和npm build，并且修改了vue-devtools-master\shells\chrome\manifest.json文件里面需要修改的内容。   
+该代码已经经过npm install和npm build，并且修改了chrome目录下manifest.json文件里面需要修改的内容。   
 
 所以可以直接将chrome文件夹添加到chrome浏览器的扩展程序中，就可以成功添加dev-tools调试工具。  
 
